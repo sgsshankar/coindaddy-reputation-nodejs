@@ -37,3 +37,7 @@ Feel free to fork from [coindaddy-reputation-nodejs](https://github.com/sgsshank
 
 https://github.com/sgsshankar/coindaddy-reputation-nodejs/issues
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sgsshankar/coindaddy-reputation-nodejs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
